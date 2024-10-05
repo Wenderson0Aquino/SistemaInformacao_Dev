@@ -1,0 +1,8 @@
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\bin\Debug\SistemaInformacao.exe.config
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\bin\Debug\SistemaInformacao.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\bin\Debug\SistemaInformacao.pdb
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\obj\Debug\SistemaInformacao.csproj.AssemblyReference.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\obj\Debug\SistemaInformacao.csproj.SuggestedBindingRedirects.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\obj\Debug\SistemaInformacao.csproj.CoreCompileInputs.cache
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\obj\Debug\SistemaInformacao.exe
+F:\WENDERSON - CTDS\PROGRAMAÇÃO DE APLICATIVOS\SistemaInformacao_Dev\SistemaInformacao\obj\Debug\SistemaInformacao.pdb
